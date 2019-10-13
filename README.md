@@ -1,7 +1,3 @@
-<h1 align="center">
-  The Royal Dumpsters UI
-</h1>
+# The Royal Dumpsters UI
 
-<p>&nbsp;</p>
-
-Built using [Gatsby](https://www.gatsbyjs.org) with the [musician theme](https://github.com/ekafyi/gatsby-theme-musician/)
+Built using [Gatsby](https://www.gatsbyjs.org) and the [musician theme](https://github.com/ekafyi/gatsby-theme-musician/)
